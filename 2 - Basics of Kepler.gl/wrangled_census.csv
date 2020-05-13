@@ -1,0 +1,587 @@
+geographic_code,geographic_name,geographic_type,geographic_name_province_or_territory,geographic_code_province_or_territory,global_non_response_rate,data_quality_flag,household_type,median_household_total_income_2015_constant_dollars_2005,median_household_total_income_2015_constant_dollars_2015,median_household_total_income_2015_constant_dollars_percent_change,median_household_after_tax_income_2015_constant_dollars_2005,median_household_after_tax_income_2015_constant_dollars_2015,median_household_after_tax_income_2015_constant_dollars_percent_change,Year,number_of_households,total_households
+1001,Division No.  1,Census division,Newfoundland and Labrador,10,3.7,0,Total  Household type including census family structure,57667,74676,29.5,49750,64504,29.7,2006,97015,197185
+1002,Division No.  2,Census division,Newfoundland and Labrador,10,4.2,0,Total  Household type including census family structure,47391,60912,28.5,42664,54629,28,2006,8710,197185
+1003,Division No.  3,Census division,Newfoundland and Labrador,10,4.3,0,Total  Household type including census family structure,44283,56224,27,39822,51309,28.8,2006,6895,197185
+1004,Division No.  4,Census division,Newfoundland and Labrador,10,4.2,0,Total  Household type including census family structure,39831,44282,11.2,36374,41079,12.9,2006,8725,197185
+1005,Division No.  5,Census division,Newfoundland and Labrador,10,4.7,0,Total  Household type including census family structure,52627,62565,18.9,46424,55417,19.4,2006,15925,197185
+1006,Division No.  6,Census division,Newfoundland and Labrador,10,4.4,0,Total  Household type including census family structure,51534,61250,18.9,45709,54440,19.1,2006,14230,197185
+1007,Division No.  7,Census division,Newfoundland and Labrador,10,3.7,0,Total  Household type including census family structure,45846,57183,24.7,41485,51484,24.1,2006,14010,197185
+1008,Division No.  8,Census division,Newfoundland and Labrador,10,4.4,0,Total  Household type including census family structure,42906,51687,20.5,39384,47341,20.2,2006,15440,197185
+1009,Division No.  9,Census division,Newfoundland and Labrador,10,4.7,0,Total  Household type including census family structure,47241,59858,26.7,42635,54037,26.7,2006,6995,197185
+1010,Division No. 10,Census division,Newfoundland and Labrador,10,4,0,Total  Household type including census family structure,80063,112768,40.8,67664,92764,37.1,2006,8540,197185
+1011,Division No. 11,Census division,Newfoundland and Labrador,10,13,1100,Total  Household type including census family structure,60501,70315,16.2,53632,62610,16.7,2006,700,197185
+1101,Kings,County,Prince Edward Island,11,4.1,0,Total  Household type including census family structure,52403,57799,10.3,46916,50903,8.5,2006,7165,53140
+1102,Queens,County,Prince Edward Island,11,4.2,0,Total  Household type including census family structure,57216,63770,11.5,50105,55200,10.2,2006,28690,53140
+1103,Prince,County,Prince Edward Island,11,4,0,Total  Household type including census family structure,52655,58196,10.5,46388,51240,10.5,2006,17285,53140
+1201,Shelburne,County,Nova Scotia,12,3.9,0,Total  Household type including census family structure,47911,57462,19.9,42907,50251,17.1,2006,6480,376830
+1202,Yarmouth,County,Nova Scotia,12,4.2,0,Total  Household type including census family structure,49390,54006,9.3,43614,48276,10.7,2006,10650,376830
+1203,Digby,County,Nova Scotia,12,4.2,0,Total  Household type including census family structure,45323,47922,5.7,40628,43676,7.5,2006,8070,376830
+1204,Queens,County,Nova Scotia,12,4.8,0,Total  Household type including census family structure,47219,47548,0.7,41336,43520,5.3,2006,4700,376830
+1205,Annapolis,County,Nova Scotia,12,4.5,0,Total  Household type including census family structure,43837,48116,9.8,39767,43746,10,2006,9205,376830
+1206,Lunenburg,County,Nova Scotia,12,4,0,Total  Household type including census family structure,51165,54833,7.2,45257,48915,8.1,2006,20075,376830
+1207,Kings,County,Nova Scotia,12,4,0,Total  Household type including census family structure,52926,57776,9.2,46022,50936,10.7,2006,24195,376830
+1208,Hants,County,Nova Scotia,12,3.5,0,Total  Household type including census family structure,58728,65028,10.7,51171,56174,9.8,2006,15835,376830
+1209,Halifax,County,Nova Scotia,12,3.7,0,Total  Household type including census family structure,64004,69522,8.6,54301,59240,9.1,2006,155125,376830
+1210,Colchester,County,Nova Scotia,12,3.8,0,Total  Household type including census family structure,50641,55371,9.3,45061,49022,8.8,2006,20860,376830
+1211,Cumberland,County,Nova Scotia,12,4.5,0,Total  Household type including census family structure,45493,49883,9.6,41118,45168,9.8,2006,13600,376830
+1212,Pictou,County,Nova Scotia,12,4,0,Total  Household type including census family structure,51411,56066,9.1,45011,49544,10.1,2006,19290,376830
+1213,Guysborough,County,Nova Scotia,12,5.6,0,Total  Household type including census family structure,41294,49253,19.3,38559,44978,16.6,2006,3885,376830
+1214,Antigonish,County,Nova Scotia,12,3.9,0,Total  Household type including census family structure,58648,64558,10.1,51132,56192,9.9,2006,7220,376830
+1215,Inverness,County,Nova Scotia,12,5.1,0,Total  Household type including census family structure,54054,58432,8.1,47224,51584,9.2,2006,7485,376830
+1216,Richmond,County,Nova Scotia,12,4.4,0,Total  Household type including census family structure,47589,53099,11.6,42670,47733,11.9,2006,3970,376830
+1217,Cape Breton,County,Nova Scotia,12,3.9,0,Total  Household type including census family structure,47876,52914,10.5,43222,47624,10.2,2006,43085,376830
+1218,Victoria,County,Nova Scotia,12,4.7,0,Total  Household type including census family structure,52177,56794,8.8,46568,50778,9,2006,3100,376830
+1301,Saint John,County,New Brunswick,13,4.1,0,Total  Household type including census family structure,49896,53387,7,44206,47672,7.8,2006,31810,295950
+1302,Charlotte,County,New Brunswick,13,3.7,0,Total  Household type including census family structure,48363,55701,15.2,43361,49858,15,2006,11160,295950
+1303,Sunbury,County,New Brunswick,13,4.9,0,Total  Household type including census family structure,66189,71512,8,56148,61653,9.8,2006,9510,295950
+1304,Queens,County,New Brunswick,13,3.6,0,Total  Household type including census family structure,44528,48539,9,40658,44567,9.6,2006,5080,295950
+1305,Kings,County,New Brunswick,13,2.9,0,Total  Household type including census family structure,68087,76290,12,58115,65597,12.9,2006,24380,295950
+1306,Albert,County,New Brunswick,13,3.1,0,Total  Household type including census family structure,64242,66521,3.5,55009,58251,5.9,2006,10765,295950
+1307,Westmorland,County,New Brunswick,13,4.1,0,Total  Household type including census family structure,57134,61903,8.3,49688,54448,9.6,2006,54540,295950
+1308,Kent,County,New Brunswick,13,3.7,0,Total  Household type including census family structure,46503,54123,16.4,42287,49053,16,2006,12825,295950
+1309,Northumberland,County,New Brunswick,13,3.8,0,Total  Household type including census family structure,47586,55223,16,43267,49737,15,2006,18815,295950
+1310,York,County,New Brunswick,13,3.6,0,Total  Household type including census family structure,60116,65274,8.6,52126,57071,9.5,2006,36815,295950
+1311,Carleton,County,New Brunswick,13,3.4,0,Total  Household type including census family structure,51625,55749,8,45849,50348,9.8,2006,10380,295950
+1312,Victoria,County,New Brunswick,13,3.9,0,Total  Household type including census family structure,45449,49146,8.1,42216,45196,7.1,2006,8210,295950
+1313,Madawaska,County,New Brunswick,13,4.3,0,Total  Household type including census family structure,50574,53146,5.1,44736,47780,6.8,2006,14335,295950
+1314,Restigouche,County,New Brunswick,13,4.4,0,Total  Household type including census family structure,44966,49553,10.2,41178,45133,9.6,2006,14160,295950
+1315,Gloucester,County,New Brunswick,13,4.1,0,Total  Household type including census family structure,47199,52793,11.9,42565,47671,12,2006,33165,295950
+2401,Les Îles-de-la-Madeleine,Territoire équivalent,Quebec,24,3.5,0,Total  Household type including census family structure,56695,61243,8,50862,53947,6.1,2006,5190,3189360
+2402,Le Rocher-Percé,Municipalité régionale de comté,Quebec,24,3.3,0,Total  Household type including census family structure,42682,47957,12.4,38825,43993,13.3,2006,7895,3189360
+2403,La Côte-de-Gaspé,Municipalité régionale de comté,Quebec,24,3.2,0,Total  Household type including census family structure,51146,57676,12.8,45551,51194,12.4,2006,7290,3189360
+2404,La Haute-Gaspésie,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,37578,45046,19.9,35131,41365,17.7,2006,5285,3189360
+2405,Bonaventure,Municipalité régionale de comté,Quebec,24,4.5,0,Total  Household type including census family structure,48638,53346,9.7,43687,47762,9.3,2006,7525,3189360
+2406,Avignon,Municipalité régionale de comté,Quebec,24,6.7,0,Total  Household type including census family structure,46665,48370,3.7,42146,44483,5.5,2006,6150,3189360
+2407,La Matapédia,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,43206,47488,9.9,39794,42958,8,2006,7970,3189360
+2408,Matane,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,43079,47821,11,39629,42825,8.1,2006,10045,3189360
+2409,La Mitis,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,44193,48996,10.9,40055,44203,10.4,2006,8200,3189360
+2410,Rimouski-Neigette,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,51602,56835,10.1,45345,49479,9.1,2006,23195,3189360
+2411,Les Basques,Municipalité régionale de comté,Quebec,24,4.7,0,Total  Household type including census family structure,41259,44809,8.6,37553,40546,8,2006,4100,3189360
+2412,Rivière-du-Loup,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,50704,55865,10.2,45323,49381,9,2006,14140,3189360
+2413,Témiscouata,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,44285,49317,11.4,40995,44751,9.2,2006,9115,3189360
+2414,Kamouraska,Municipalité régionale de comté,Quebec,24,4.3,0,Total  Household type including census family structure,51472,54854,6.6,45355,48826,7.7,2006,8975,3189360
+2415,Charlevoix-Est,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,54353,55727,2.5,48262,49203,1.9,2006,6790,3189360
+2416,Charlevoix,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,51123,56806,11.1,45963,50560,10,2006,5415,3189360
+2417,L'Islet,Municipalité régionale de comté,Quebec,24,3.3,0,Total  Household type including census family structure,48486,52042,7.3,43276,46171,6.7,2006,7900,3189360
+2418,Montmagny,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,47094,49649,5.4,42465,44466,4.7,2006,10010,3189360
+2419,Bellechasse,Municipalité régionale de comté,Quebec,24,4.1,0,Total  Household type including census family structure,54371,62039,14.1,48151,54229,12.6,2006,13320,3189360
+2420,L'Île-d'Orléans,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,66321,77568,17,57769,65856,14,2006,2865,3189360
+2421,La Côte-de-Beaupré,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,61842,71277,15.3,53862,60827,12.9,2006,9390,3189360
+2422,La Jacques-Cartier,Municipalité régionale de comté,Quebec,24,3.2,0,Total  Household type including census family structure,77773,90884,16.9,65654,75523,15,2006,11230,3189360
+2423,Québec,Territoire équivalent,Quebec,24,4.2,0,Total  Household type including census family structure,55406,61175,10.4,47688,52592,10.3,2006,240795,3189360
+2425,Lévis,Territoire équivalent,Quebec,24,3.4,0,Total  Household type including census family structure,68071,74101,8.9,57517,62634,8.9,2006,52660,3189360
+2426,La Nouvelle-Beauce,Municipalité régionale de comté,Quebec,24,3.1,0,Total  Household type including census family structure,60790,67947,11.8,52664,58877,11.8,2006,12185,3189360
+2427,Robert-Cliche,Municipalité régionale de comté,Quebec,24,3,0,Total  Household type including census family structure,53341,56640,6.2,47610,50309,5.7,2006,7470,3189360
+2428,Les Etchemins,Municipalité régionale de comté,Quebec,24,4.1,0,Total  Household type including census family structure,47120,50534,7.2,43120,45568,5.7,2006,7240,3189360
+2429,Beauce-Sartigan,Municipalité régionale de comté,Quebec,24,4.1,0,Total  Household type including census family structure,52616,55478,5.4,46173,48996,6.1,2006,20440,3189360
+2430,Le Granit,Municipalité régionale de comté,Quebec,24,3.7,0,Total  Household type including census family structure,47949,51422,7.2,42981,46252,7.6,2006,9360,3189360
+2431,Les Appalaches,Municipalité régionale de comté,Quebec,24,4.7,0,Total  Household type including census family structure,45730,48981,7.1,41263,44293,7.3,2006,18965,3189360
+2432,L'Érable,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,46874,50716,8.2,42673,45540,6.7,2006,9605,3189360
+2433,Lotbinière,Municipalité régionale de comté,Quebec,24,3.1,0,Total  Household type including census family structure,53861,61017,13.3,48390,53783,11.1,2006,10850,3189360
+2434,Portneuf,Municipalité régionale de comté,Quebec,24,3.7,0,Total  Household type including census family structure,52906,60385,14.1,46854,52618,12.3,2006,19665,3189360
+2435,Mékinac,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,41767,45266,8.4,38280,41230,7.7,2006,5810,3189360
+2436,Shawinigan,Territoire équivalent,Quebec,24,4,0,Total  Household type including census family structure,41865,44555,6.4,37715,40322,6.9,2006,24215,3189360
+2437,Francheville,Census division,Quebec,24,4.3,0,Total  Household type including census family structure,47709,51335,7.6,42550,45538,7,2006,64725,3189360
+2438,Bécancour,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,50811,54778,7.8,45269,48661,7.5,2006,7840,3189360
+2439,Arthabaska,Municipalité régionale de comté,Quebec,24,4.4,0,Total  Household type including census family structure,49410,53697,8.7,44093,47458,7.6,2006,27585,3189360
+2440,Les Sources,Municipalité régionale de comté,Quebec,24,4.5,0,Total  Household type including census family structure,45623,45595,-0.1,41677,42317,1.5,2006,6400,3189360
+2441,Le Haut-Saint-François,Municipalité régionale de comté,Quebec,24,3.7,0,Total  Household type including census family structure,46831,52022,11.1,42802,46995,9.8,2006,8830,3189360
+2442,Le Val-Saint-François,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,56557,60791,7.5,49305,52822,7.1,2006,11870,3189360
+2443,Sherbrooke,Territoire équivalent,Quebec,24,4.2,0,Total  Household type including census family structure,48735,51706,6.1,43336,45946,6,2006,65990,3189360
+2444,Coaticook,Municipalité régionale de comté,Quebec,24,3.7,0,Total  Household type including census family structure,52524,54090,3,46992,48501,3.2,2006,7280,3189360
+2445,Memphrémagog,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,52469,58045,10.6,45943,50791,10.6,2006,19930,3189360
+2446,Brome-Missisquoi,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,53741,57801,7.6,47189,50794,7.6,2006,22235,3189360
+2447,La Haute-Yamaska,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,53704,55259,2.9,47159,48680,3.2,2006,33285,3189360
+2448,Acton,Municipalité régionale de comté,Quebec,24,3.5,0,Total  Household type including census family structure,48992,51261,4.6,43565,46167,6,2006,6280,3189360
+2449,Drummond,Municipalité régionale de comté,Quebec,24,4.4,0,Total  Household type including census family structure,49135,52580,7,43760,46816,7,2006,39510,3189360
+2450,Nicolet-Yamaska,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,47697,53093,11.3,43322,47506,9.7,2006,9440,3189360
+2451,Maskinongé,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,46834,50546,7.9,41864,45608,8.9,2006,15250,3189360
+2452,D'Autray,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,49358,55057,11.5,44069,49090,11.4,2006,16525,3189360
+2453,Pierre-De Saurel,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,50282,52922,5.3,44440,47068,5.9,2006,22075,3189360
+2454,Les Maskoutains,Municipalité régionale de comté,Quebec,24,4.2,0,Total  Household type including census family structure,53144,55917,5.2,46908,49272,5,2006,33945,3189360
+2455,Rouville,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,62598,65186,4.1,54217,56259,3.8,2006,12290,3189360
+2456,Le Haut-Richelieu,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,56886,61778,8.6,49451,53653,8.5,2006,45145,3189360
+2457,La Vallée-du-Richelieu,Municipalité régionale de comté,Quebec,24,2.6,0,Total  Household type including census family structure,77429,84889,9.6,64807,70469,8.7,2006,40590,3189360
+2458,Longueuil,Territoire équivalent,Quebec,24,3.2,0,Total  Household type including census family structure,63230,66932,5.9,54066,57401,6.2,2006,159810,3189360
+2459,Marguerite-D'Youville,Municipalité régionale de comté,Quebec,24,2.4,0,Total  Household type including census family structure,81051,84387,4.1,67585,70016,3.6,2006,25680,3189360
+2460,L'Assomption,Municipalité régionale de comté,Quebec,24,2.3,0,Total  Household type including census family structure,72231,74714,3.4,60679,63345,4.4,2006,42440,3189360
+2461,Joliette,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,49733,53626,7.8,44021,47685,8.3,2006,25190,3189360
+2462,Matawinie,Municipalité régionale de comté,Quebec,24,5.2,0,Total  Household type including census family structure,46775,49542,5.9,41802,44647,6.8,2006,21715,3189360
+2463,Montcalm,Municipalité régionale de comté,Quebec,24,3.1,0,Total  Household type including census family structure,50887,58065,14.1,45446,51046,12.3,2006,16945,3189360
+2464,Les Moulins,Municipalité régionale de comté,Quebec,24,2.1,0,Total  Household type including census family structure,74720,78813,5.5,63015,66379,5.3,2006,46895,3189360
+2465,Laval,Territoire équivalent,Quebec,24,2.9,0,Total  Household type including census family structure,65007,70216,8,55680,60559,8.8,2006,144200,3189360
+2466,Montréal,Territoire équivalent,Quebec,24,3.8,0,Total  Household type including census family structure,47539,52519,10.5,42030,46559,10.8,2006,831555,3189360
+2467,Roussillon,Municipalité régionale de comté,Quebec,24,2.4,20000,Total  Household type including census family structure,74032,78596,6.2,62726,66339,5.8,2006,56165,3189360
+2468,Les Jardins-de-Napierville,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,57064,64332,12.7,50093,56274,12.3,2006,9165,3189360
+2469,Le Haut-Saint-Laurent,Municipalité régionale de comté,Quebec,24,5.9,0,Total  Household type including census family structure,47463,50777,7,42840,46058,7.5,2006,9045,3189360
+2470,Beauharnois-Salaberry,Municipalité régionale de comté,Quebec,24,4.3,0,Total  Household type including census family structure,51677,54509,5.5,45404,48139,6,2006,26180,3189360
+2471,Vaudreuil-Soulanges,Municipalité régionale de comté,Quebec,24,2.3,0,Total  Household type including census family structure,76082,78913,3.7,63627,66445,4.4,2006,45835,3189360
+2472,Deux-Montagnes,Municipalité régionale de comté,Quebec,24,2.5,20000,Total  Household type including census family structure,67886,71086,4.7,56894,60561,6.4,2006,34060,3189360
+2473,Thérèse-De Blainville,Municipalité régionale de comté,Quebec,24,3,0,Total  Household type including census family structure,76248,77568,1.7,63701,65391,2.7,2006,53230,3189360
+2474,Mirabel,Territoire équivalent,Quebec,24,2,0,Total  Household type including census family structure,70905,75895,7,59755,63940,7,2006,12715,3189360
+2475,La Rivière-du-Nord,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,55727,59462,6.7,48636,51883,6.7,2006,42450,3189360
+2476,Argenteuil,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,48895,50415,3.1,43044,45305,5.3,2006,12850,3189360
+2477,Les Pays-d'en-Haut,Municipalité régionale de comté,Quebec,24,3.5,0,Total  Household type including census family structure,58258,58800,0.9,50074,50737,1.3,2006,17135,3189360
+2478,Les Laurentides,Municipalité régionale de comté,Quebec,24,4.1,20000,Total  Household type including census family structure,49258,50630,2.8,43780,45171,3.2,2006,19065,3189360
+2479,Antoine-Labelle,Municipalité régionale de comté,Quebec,24,5.8,0,Total  Household type including census family structure,45356,46928,3.5,40919,42639,4.2,2006,15300,3189360
+2480,Papineau,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,46996,51196,8.9,41880,45846,9.5,2006,9515,3189360
+2481,Gatineau,Territoire équivalent,Quebec,24,3.4,0,Total  Household type including census family structure,67678,68703,1.5,56913,58063,2,2006,100265,3189360
+2482,Les Collines-de-l'Outaouais,Municipalité régionale de comté,Quebec,24,2.8,0,Total  Household type including census family structure,78279,90482,15.6,65161,74877,14.9,2006,15790,3189360
+2483,La Vallée-de-la-Gatineau,Municipalité régionale de comté,Quebec,24,6.9,20000,Total  Household type including census family structure,41916,46072,9.9,38685,41913,8.3,2006,8960,3189360
+2484,Pontiac,Municipalité régionale de comté,Quebec,24,5.2,0,Total  Household type including census family structure,47049,50567,7.5,42129,46033,9.3,2006,5965,3189360
+2485,Témiscamingue,Municipalité régionale de comté,Quebec,24,5.7,0,Total  Household type including census family structure,50382,55627,10.4,44452,48901,10,2006,7120,3189360
+2486,Rouyn-Noranda,Territoire équivalent,Quebec,24,4.2,0,Total  Household type including census family structure,52333,62994,20.4,45640,54020,18.4,2006,17415,3189360
+2487,Abitibi-Ouest,Municipalité régionale de comté,Quebec,24,3.5,0,Total  Household type including census family structure,49232,57116,16,43638,50199,15,2006,8755,3189360
+2488,Abitibi,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,55448,64064,15.5,48580,55583,14.4,2006,9920,3189360
+2489,La Vallée-de-l'Or,Municipalité régionale de comté,Quebec,24,4.7,0,Total  Household type including census family structure,53153,62540,17.7,46347,53992,16.5,2006,17670,3189360
+2490,La Tuque,Territoire équivalent,Quebec,24,7.6,0,Total  Household type including census family structure,50069,51384,2.6,43857,46088,5.1,2006,6335,3189360
+2491,Le Domaine-du-Roy,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,51854,54587,5.3,45482,48562,6.8,2006,13300,3189360
+2492,Maria-Chapdelaine,Municipalité régionale de comté,Quebec,24,4.3,0,Total  Household type including census family structure,49808,54479,9.4,44501,48221,8.4,2006,10880,3189360
+2493,Lac-Saint-Jean-Est,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,54745,58076,6.1,47698,51031,7,2006,21055,3189360
+2494,Le Saguenay-et-son-Fjord,Census division,Quebec,24,3.8,0,Total  Household type including census family structure,54702,59268,8.3,47851,51655,7.9,2006,69205,3189360
+2495,La Haute-Côte-Nord,Municipalité régionale de comté,Quebec,24,5.8,0,Total  Household type including census family structure,50688,51760,2.1,45191,46421,2.7,2006,5175,3189360
+2496,Manicouagan,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,66709,64034,-4,56443,54980,-2.6,2006,13690,3189360
+2497,Sept-Rivières--Caniapiscau,Census division,Quebec,24,5.8,0,Total  Household type including census family structure,64932,72600,11.8,55495,61767,11.3,2006,16170,3189360
+2498,Minganie--Le Golfe-du-Saint-Laurent,Census division,Quebec,24,7.9,0,Total  Household type including census family structure,55498,70042,26.2,50876,61275,20.4,2006,4340,3189360
+2499,Nord-du-Québec,Census division,Quebec,24,10,1100,Total  Household type including census family structure,73465,82065,11.7,64330,71575,11.3,2006,11935,3189360
+3501,"Stormont, Dundas and Glengarry",United counties,Ontario,35,4.5,0,Total  Household type including census family structure,57365,59526,3.8,50814,53615,5.5,2006,44260,4555020
+3502,Prescott and Russell,United counties,Ontario,35,3.9,0,Total  Household type including census family structure,71591,78748,10,61271,68488,11.8,2006,30095,4555020
+3506,Ottawa,Census division,Ontario,35,3.5,0,Total  Household type including census family structure,82537,85981,4.2,69155,73745,6.6,2006,321100,4555020
+3507,Leeds and Grenville,United counties,Ontario,35,4.4,0,Total  Household type including census family structure,64571,68305,5.8,56064,60569,8,2006,39925,4555020
+3509,Lanark,County,Ontario,35,4.6,0,Total  Household type including census family structure,67316,71660,6.5,58359,63058,8.1,2006,25165,4555020
+3510,Frontenac,County,Ontario,35,4.4,0,Total  Household type including census family structure,64251,69432,8.1,56093,61139,9,2006,59190,4555020
+3511,Lennox and Addington,County,Ontario,35,5.6,0,Total  Household type including census family structure,63916,71725,12.2,55948,63324,13.2,2006,15535,4555020
+3512,Hastings,County,Ontario,35,4.4,0,Total  Household type including census family structure,58947,61109,3.7,51753,54900,6.1,2006,52645,4555020
+3513,Prince Edward,Census division,Ontario,35,5,0,Total  Household type including census family structure,63052,66140,4.9,54641,59259,8.5,2006,10305,4555020
+3514,Northumberland,County,Ontario,35,5,0,Total  Household type including census family structure,66040,70208,6.3,57580,62187,8,2006,31550,4555020
+3515,Peterborough,County,Ontario,35,4.6,0,Total  Household type including census family structure,61120,64437,5.4,53658,57588,7.3,2006,53580,4555020
+3516,Kawartha Lakes,Census division,Ontario,35,4.7,0,Total  Household type including census family structure,62681,67187,7.2,55418,59733,7.8,2006,29500,4555020
+3518,Durham,Regional municipality,Ontario,35,3,0,Total  Household type including census family structure,89204,89834,0.7,74734,77398,3.6,2006,194670,4555020
+3519,York,Regional municipality,Ontario,35,2.4,0,Total  Household type including census family structure,96918,95776,-1.2,82078,82804,0.9,2006,275680,4555020
+3520,Toronto,Census division,Ontario,35,3.8,0,Total  Household type including census family structure,62506,65829,5.3,54700,58264,6.5,2006,979440,4555020
+3521,Peel,Regional municipality,Ontario,35,2.5,0,Total  Household type including census family structure,85957,86233,0.3,73591,75667,2.8,2006,359085,4555020
+3522,Dufferin,County,Ontario,35,3.5,0,Total  Household type including census family structure,83791,89608,6.9,71003,77256,8.8,2006,18760,4555020
+3523,Wellington,County,Ontario,35,3.8,0,Total  Household type including census family structure,78263,81347,3.9,66766,70728,5.9,2006,74710,4555020
+3524,Halton,Regional municipality,Ontario,35,2.7,0,Total  Household type including census family structure,98827,103009,4.2,81684,87183,6.7,2006,157065,4555020
+3525,Hamilton,Census division,Ontario,35,3.8,0,Total  Household type including census family structure,65443,69024,5.5,56878,61168,7.5,2006,194455,4555020
+3526,Niagara,Regional municipality,Ontario,35,4,0,Total  Household type including census family structure,64476,65086,0.9,56244,58235,3.5,2006,169510,4555020
+3528,Haldimand-Norfolk,Census division,Ontario,35,4.5,20000,Total  Household type including census family structure,67100,70686,5.3,58415,62692,7.3,2006,40580,4555020
+3529,Brant,Census division,Ontario,35,4.2,20000,Total  Household type including census family structure,66998,68741,2.6,57959,61112,5.4,2006,48020,4555020
+3530,Waterloo,Regional municipality,Ontario,35,3.6,0,Total  Household type including census family structure,76327,77530,1.6,65286,67887,4,2006,178125,4555020
+3531,Perth,County,Ontario,35,3.9,0,Total  Household type including census family structure,67742,70336,3.8,58737,62229,5.9,2006,28555,4555020
+3532,Oxford,County,Ontario,35,3.7,0,Total  Household type including census family structure,69714,72294,3.7,60367,63630,5.4,2006,39330,4555020
+3534,Elgin,County,Ontario,35,3.7,0,Total  Household type including census family structure,68427,66494,-2.8,58781,59283,0.9,2006,32205,4555020
+3536,Chatham-Kent,Census division,Ontario,35,4.3,0,Total  Household type including census family structure,60330,58185,-3.6,52666,52667,0,2006,43675,4555020
+3537,Essex,County,Ontario,35,4.2,0,Total  Household type including census family structure,70697,66658,-5.7,60744,59274,-2.4,2006,150845,4555020
+3538,Lambton,County,Ontario,35,4.2,0,Total  Household type including census family structure,67612,70022,3.6,58650,61663,5.1,2006,51955,4555020
+3539,Middlesex,County,Ontario,35,3.5,20000,Total  Household type including census family structure,65586,64797,-1.2,56814,57589,1.4,2006,170420,4555020
+3540,Huron,County,Ontario,35,5,0,Total  Household type including census family structure,61466,65944,7.3,53938,58785,9,2006,22905,4555020
+3541,Bruce,County,Ontario,35,6,0,Total  Household type including census family structure,64409,71193,10.5,56177,62926,12,2006,26320,4555020
+3542,Grey,County,Ontario,35,4.9,0,Total  Household type including census family structure,59050,62935,6.6,52406,56458,7.7,2006,37185,4555020
+3543,Simcoe,County,Ontario,35,4,0,Total  Household type including census family structure,73740,76489,3.7,63225,67022,6,2006,156650,4555020
+3544,Muskoka,District municipality,Ontario,35,5.8,20000,Total  Household type including census family structure,62452,67880,8.7,54425,60245,10.7,2006,23155,4555020
+3546,Haliburton,County,Ontario,35,6.4,0,Total  Household type including census family structure,53477,58125,8.7,47726,52379,9.7,2006,6975,4555020
+3547,Renfrew,County,Ontario,35,5,0,Total  Household type including census family structure,62088,67683,9,54088,59769,10.5,2006,39245,4555020
+3548,Nipissing,District,Ontario,35,5,0,Total  Household type including census family structure,55325,60303,9,49260,54303,10.2,2006,35140,4555020
+3549,Parry Sound,District,Ontario,35,6.3,0,Total  Household type including census family structure,54642,60251,10.3,48605,54442,12,2006,17195,4555020
+3551,Manitoulin,District,Ontario,35,8.2,100,Total  Household type including census family structure,46383,50227,8.3,42595,47293,11,2006,5270,4555020
+3552,Sudbury,District,Ontario,35,6,0,Total  Household type including census family structure,57104,65333,14.4,50208,58004,15.5,2006,9055,4555020
+3553,Greater Sudbury,Census division,Ontario,35,4.1,0,Total  Household type including census family structure,65119,71791,10.2,56301,62845,11.6,2006,64960,4555020
+3554,Timiskaming,District,Ontario,35,5,0,Total  Household type including census family structure,51459,59360,15.4,46507,53008,14,2006,14235,4555020
+3556,Cochrane,District,Ontario,35,5.1,0,Total  Household type including census family structure,63557,68349,7.5,55394,60192,8.7,2006,33335,4555020
+3557,Algoma,District,Ontario,35,4.8,20000,Total  Household type including census family structure,56285,58664,4.2,49846,53127,6.6,2006,50010,4555020
+3558,Thunder Bay,District,Ontario,35,5.3,0,Total  Household type including census family structure,64966,68062,4.8,56342,60241,6.9,2006,61840,4555020
+3559,Rainy River,District,Ontario,35,6.4,0,Total  Household type including census family structure,60948,64320,5.5,53600,57632,7.5,2006,8590,4555020
+3560,Kenora,District,Ontario,35,10.7,21100,Total  Household type including census family structure,62373,66198,6.1,55496,59934,8,2006,23020,4555020
+4601,Division No.  1,Census division,Manitoba,46,8.5,100,Total  Household type including census family structure,52810,62660,18.7,47220,54724,15.9,2006,7350,448780
+4602,Division No.  2,Census division,Manitoba,46,3.5,0,Total  Household type including census family structure,61932,74504,20.3,54505,64666,18.6,2006,18715,448780
+4603,Division No.  3,Census division,Manitoba,46,3.8,0,Total  Household type including census family structure,52772,65475,24.1,47911,57946,20.9,2006,15400,448780
+4604,Division No.  4,Census division,Manitoba,46,8.5,0,Total  Household type including census family structure,42079,57088,35.7,38925,49997,28.4,2006,3715,448780
+4605,Division No.  5,Census division,Manitoba,46,4.9,0,Total  Household type including census family structure,47129,63147,34,42994,54920,27.7,2006,5460,448780
+4606,Division No.  6,Census division,Manitoba,46,4.4,0,Total  Household type including census family structure,44622,64055,43.6,40923,56576,38.2,2006,3875,448780
+4607,Division No.  7,Census division,Manitoba,46,4.1,0,Total  Household type including census family structure,55542,69374,24.9,48145,59418,23.4,2006,24710,448780
+4608,Division No.  8,Census division,Manitoba,46,5.9,0,Total  Household type including census family structure,43135,53996,25.2,39726,48917,23.1,2006,4395,448780
+4609,Division No.  9,Census division,Manitoba,46,4.9,0,Total  Household type including census family structure,54651,61336,12.2,47770,54165,13.4,2006,8650,448780
+4610,Division No. 10,Census division,Manitoba,46,3,0,Total  Household type including census family structure,86969,109483,25.9,72060,89639,24.4,2006,2965,448780
+4611,Division No. 11,Census division,Manitoba,46,3.3,0,Total  Household type including census family structure,59013,68552,16.2,50840,59102,16.3,2006,261855,448780
+4612,Division No. 12,Census division,Manitoba,46,3.5,0,Total  Household type including census family structure,73426,88558,20.6,62181,74325,19.5,2006,7270,448780
+4613,Division No. 13,Census division,Manitoba,46,3.5,0,Total  Household type including census family structure,77802,88680,14,64882,74180,14.3,2006,16375,448780
+4614,Division No. 14,Census division,Manitoba,46,5.8,0,Total  Household type including census family structure,70017,86932,24.2,58837,72896,23.9,2006,6280,448780
+4615,Division No. 15,Census division,Manitoba,46,4.7,0,Total  Household type including census family structure,43635,60298,38.2,40399,53191,31.7,2006,8565,448780
+4616,Division No. 16,Census division,Manitoba,46,6.4,0,Total  Household type including census family structure,36328,51272,41.1,34543,46793,35.5,2006,4090,448780
+4617,Division No. 17,Census division,Manitoba,46,6,0,Total  Household type including census family structure,40605,50775,25,37658,45874,21.8,2006,9525,448780
+4618,Division No. 18,Census division,Manitoba,46,7.3,100,Total  Household type including census family structure,46208,54491,17.9,41574,48973,17.8,2006,9680,448780
+4619,Division No. 19,Census division,Manitoba,46,7.3,100,Total  Household type including census family structure,26810,34944,30.3,26552,34221,28.9,2006,4780,448780
+4620,Division No. 20,Census division,Manitoba,46,6.5,0,Total  Household type including census family structure,42786,53691,25.5,39327,48849,24.2,2006,4370,448780
+4621,Division No. 21,Census division,Manitoba,46,10.4,1100,Total  Household type including census family structure,58843,72028,22.4,52941,63689,20.3,2006,7935,448780
+4622,Division No. 22,Census division,Manitoba,46,9.1,100,Total  Household type including census family structure,51965,64061,23.3,49463,59665,20.6,2006,10520,448780
+4623,Division No. 23,Census division,Manitoba,46,10.4,1200,Total  Household type including census family structure,51719,55219,6.8,47597,52144,9.6,2006,2300,448780
+4701,Division No.  1,Census division,Saskatchewan,47,4.6,0,Total  Household type including census family structure,59250,87916,48.4,52200,74357,42.4,2006,11925,387160
+4702,Division No.  2,Census division,Saskatchewan,47,4,0,Total  Household type including census family structure,53882,77118,43.1,47652,67157,40.9,2006,8570,387160
+4703,Division No.  3,Census division,Saskatchewan,47,6.4,0,Total  Household type including census family structure,45178,64805,43.4,41133,57929,40.8,2006,5530,387160
+4704,Division No.  4,Census division,Saskatchewan,47,7,0,Total  Household type including census family structure,47233,65139,37.9,42595,58054,36.3,2006,4270,387160
+4705,Division No.  5,Census division,Saskatchewan,47,4.9,0,Total  Household type including census family structure,49420,67694,37,43435,59984,38.1,2006,12905,387160
+4706,Division No.  6,Census division,Saskatchewan,47,4,0,Total  Household type including census family structure,64111,82590,28.8,55020,70984,29,2006,90500,387160
+4707,Division No.  7,Census division,Saskatchewan,47,4.8,0,Total  Household type including census family structure,52764,68729,30.3,46321,60666,31,2006,18800,387160
+4708,Division No.  8,Census division,Saskatchewan,47,5.2,0,Total  Household type including census family structure,55540,74155,33.5,48751,64588,32.5,2006,12205,387160
+4709,Division No.  9,Census division,Saskatchewan,47,5.2,0,Total  Household type including census family structure,42191,58747,39.2,38844,53214,37,2006,15160,387160
+4710,Division No. 10,Census division,Saskatchewan,47,4.4,0,Total  Household type including census family structure,37322,51328,37.5,35044,47096,34.4,2006,7295,387160
+4711,Division No. 11,Census division,Saskatchewan,47,4.6,0,Total  Household type including census family structure,59296,81913,38.1,51677,70753,36.9,2006,99910,387160
+4712,Division No. 12,Census division,Saskatchewan,47,4.5,0,Total  Household type including census family structure,52225,75429,44.4,46691,65999,41.4,2006,8485,387160
+4713,Division No. 13,Census division,Saskatchewan,47,4.4,0,Total  Household type including census family structure,54938,79227,44.2,48398,68469,41.5,2006,8795,387160
+4714,Division No. 14,Census division,Saskatchewan,47,5.2,0,Total  Household type including census family structure,45452,59103,30,41507,53101,27.9,2006,14935,387160
+4715,Division No. 15,Census division,Saskatchewan,47,5.8,0,Total  Household type including census family structure,52005,71463,37.4,46742,63090,35,2006,30110,387160
+4716,Division No. 16,Census division,Saskatchewan,47,5.7,0,Total  Household type including census family structure,44685,58224,30.3,41250,52871,28.2,2006,14070,387160
+4717,Division No. 17,Census division,Saskatchewan,47,5,100,Total  Household type including census family structure,57646,75633,31.2,50736,66052,30.2,2006,14445,387160
+4718,Division No. 18,Census division,Saskatchewan,47,6.8,100,Total  Household type including census family structure,42264,52685,24.7,40485,50676,25.2,2006,9250,387160
+4801,Division No.  1,Census division,Alberta,48,4.6,0,Total  Household type including census family structure,67213,75141,11.8,58776,66184,12.6,2006,29560,1256190
+4802,Division No.  2,Census division,Alberta,48,4.9,0,Total  Household type including census family structure,64380,76397,18.7,56970,67486,18.5,2006,53450,1256190
+4803,Division No.  3,Census division,Alberta,48,7.3,100,Total  Household type including census family structure,54856,64806,18.1,50499,59130,17.1,2006,12870,1256190
+4804,Division No.  4,Census division,Alberta,48,5.7,0,Total  Household type including census family structure,61810,77728,25.8,55342,67738,22.4,2006,4055,1256190
+4805,Division No.  5,Census division,Alberta,48,6.1,0,Total  Household type including census family structure,64305,77312,20.2,56938,67674,18.9,2006,17970,1256190
+4806,Division No.  6,Census division,Alberta,48,3.9,0,Total  Household type including census family structure,80926,99388,22.8,69311,84636,22.1,2006,445715,1256190
+4807,Division No.  7,Census division,Alberta,48,4.7,0,Total  Household type including census family structure,67833,82031,20.9,59460,71428,20.1,2006,15115,1256190
+4808,Division No.  8,Census division,Alberta,48,5.1,0,Total  Household type including census family structure,74567,87260,17,64640,75297,16.5,2006,66155,1256190
+4809,Division No.  9,Census division,Alberta,48,6.2,100,Total  Household type including census family structure,70887,82399,16.2,61568,71706,16.5,2006,7535,1256190
+4810,Division No. 10,Census division,Alberta,48,4.7,0,Total  Household type including census family structure,63584,82575,29.9,56594,71650,26.6,2006,33910,1256190
+4811,Division No. 11,Census division,Alberta,48,4.4,0,Total  Household type including census family structure,74262,93913,26.5,64203,80153,24.8,2006,420645,1256190
+4812,Division No. 12,Census division,Alberta,48,5.8,20100,Total  Household type including census family structure,70995,94409,33,61179,80523,31.6,2006,21450,1256190
+4813,Division No. 13,Census division,Alberta,48,4.9,0,Total  Household type including census family structure,65001,82013,26.2,57234,71215,24.4,2006,25700,1256190
+4814,Division No. 14,Census division,Alberta,48,3.6,0,Total  Household type including census family structure,85305,96569,13.2,71373,80865,13.3,2006,10565,1256190
+4815,Division No. 15,Census division,Alberta,48,14.6,1200,Total  Household type including census family structure,69667,85760,23.1,60752,74352,22.4,2006,13010,1256190
+4816,Division No. 16,Census division,Alberta,48,14.3,1100,Total  Household type including census family structure,142845,192979,35.1,113093,146417,29.5,2006,18470,1256190
+4817,Division No. 17,Census division,Alberta,48,6,100,Total  Household type including census family structure,66802,78462,17.5,59980,70077,16.8,2006,18765,1256190
+4818,Division No. 18,Census division,Alberta,48,6.3,100,Total  Household type including census family structure,76287,92416,21.1,65362,79067,21,2006,5165,1256190
+4819,Division No. 19,Census division,Alberta,48,5,0,Total  Household type including census family structure,84137,103171,22.6,72302,87078,20.4,2006,36085,1256190
+5901,East Kootenay,Regional district,British Columbia,59,6.2,0,Total  Household type including census family structure,62319,76850,23.3,54613,66876,22.5,2006,23420,1643150
+5903,Central Kootenay,Regional district,British Columbia,59,6.8,0,Total  Household type including census family structure,49276,55532,12.7,44712,49829,11.4,2006,24685,1643150
+5905,Kootenay Boundary,Regional district,British Columbia,59,6.6,0,Total  Household type including census family structure,54424,59721,9.7,48357,52936,9.5,2006,13630,1643150
+5907,Okanagan-Similkameen,Regional district,British Columbia,59,6.6,0,Total  Household type including census family structure,50924,57069,12.1,46001,51289,11.5,2006,35240,1643150
+5909,Fraser Valley,Regional district,British Columbia,59,4.9,0,Total  Household type including census family structure,60908,69289,13.8,54371,61150,12.5,2006,94625,1643150
+5915,Greater Vancouver,Regional district,British Columbia,59,4.4,0,Total  Household type including census family structure,65342,72662,11.2,57414,63365,10.4,2006,817225,1643150
+5917,Capital,Regional district,British Columbia,59,5.1,20000,Total  Household type including census family structure,62639,69665,11.2,54829,60652,10.6,2006,152530,1643150
+5919,Cowichan Valley,Regional district,British Columbia,59,5.7,0,Total  Household type including census family structure,60430,65191,7.9,53490,57783,8,2006,31265,1643150
+5921,Nanaimo,Regional district,British Columbia,59,5,0,Total  Household type including census family structure,55903,62349,11.5,49981,55521,11.1,2006,59875,1643150
+5923,Alberni-Clayoquot,Regional district,British Columbia,59,6.8,100,Total  Household type including census family structure,53944,55278,2.5,48560,49679,2.3,2006,12875,1643150
+5924,Strathcona,Regional district,British Columbia,59,5.2,0,Total  Household type including census family structure,57424,62366,8.6,50987,55487,8.8,2006,17395,1643150
+5926,Comox Valley,Regional district,British Columbia,59,4.1,0,Total  Household type including census family structure,57450,63397,10.4,50800,56286,10.8,2006,25580,1643150
+5927,Powell River,Regional district,British Columbia,59,6.8,100,Total  Household type including census family structure,51575,53056,2.9,46315,47947,3.5,2006,8775,1643150
+5929,Sunshine Coast,Regional district,British Columbia,59,6.7,100,Total  Household type including census family structure,56683,60279,6.3,50524,53727,6.3,2006,12185,1643150
+5931,Squamish-Lillooet,Regional district,British Columbia,59,9.3,100,Total  Household type including census family structure,66786,78581,17.7,58086,68335,17.6,2006,13990,1643150
+5933,Thompson-Nicola,Regional district,British Columbia,59,6,0,Total  Household type including census family structure,59914,69308,15.7,53170,60963,14.7,2006,50375,1643150
+5935,Central Okanagan,Regional district,British Columbia,59,4.6,0,Total  Household type including census family structure,59517,71127,19.5,53119,62366,17.4,2006,67000,1643150
+5937,North Okanagan,Regional district,British Columbia,59,5.1,0,Total  Household type including census family structure,55534,63364,14.1,49592,56311,13.5,2006,31875,1643150
+5939,Columbia-Shuswap,Regional district,British Columbia,59,6.6,0,Total  Household type including census family structure,55464,64009,15.4,49914,56754,13.7,2006,21185,1643150
+5941,Cariboo,Regional district,British Columbia,59,5.7,100,Total  Household type including census family structure,59589,63638,6.8,52759,56156,6.4,2006,25225,1643150
+5943,Mount Waddington,Regional district,British Columbia,59,7.4,100,Total  Household type including census family structure,58948,58912,-0.1,52089,52608,1,2006,4690,1643150
+5945,Central Coast,Regional district,British Columbia,59,11.8,1200,Total  Household type including census family structure,41073,48000,16.9,39964,45824,14.7,2006,1185,1643150
+5947,Skeena-Queen Charlotte,Regional district,British Columbia,59,6.2,100,Total  Household type including census family structure,54425,64411,18.3,48706,57261,17.6,2006,7805,1643150
+5949,Kitimat-Stikine,Regional district,British Columbia,59,6,100,Total  Household type including census family structure,59902,71742,19.8,54328,62936,15.8,2006,14555,1643150
+5951,Bulkley-Nechako,Regional district,British Columbia,59,7,100,Total  Household type including census family structure,66557,76008,14.2,58453,65922,12.8,2006,14550,1643150
+5953,Fraser-Fort George,Regional district,British Columbia,59,4.3,0,Total  Household type including census family structure,72193,77676,7.6,62267,66819,7.3,2006,36460,1643150
+5955,Peace River,Regional district,British Columbia,59,5.6,100,Total  Household type including census family structure,73309,94002,28.2,63515,79573,25.3,2006,22335,1643150
+5957,Stikine,Region,British Columbia,59,37.9,3300,Total  Household type including census family structure,41856,50816,21.4,39424,46549,18.1,2006,310,1643150
+5959,Northern Rockies,Regional district,British Columbia,59,6.3,100,Total  Household type including census family structure,91934,89527,-2.6,78478,77198,-1.6,2006,2305,1643150
+6001,Yukon,Territory,Yukon,60,6.7,100,Total  Household type including census family structure,71093,84521,18.9,62516,73935,18.3,2006,12615,12615
+6101,Region 1,Region,Northwest Territories,61,9.6,100,Total  Household type including census family structure,65792,81536,23.9,56647,72983,28.8,2006,2320,14230
+6102,Region 2,Region,Northwest Territories,61,7.4,100,Total  Household type including census family structure,72448,105728,45.9,61568,88448,43.7,2006,830,14230
+6103,Region 3,Region,Northwest Territories,61,10.4,1200,Total  Household type including census family structure,64896,84864,30.8,58624,78464,33.8,2006,670,14230
+6104,Region 4,Region,Northwest Territories,61,10.1,1200,Total  Household type including census family structure,59392,75584,27.3,52864,68736,30,2006,1070,14230
+6105,Region 5,Region,Northwest Territories,61,6.3,100,Total  Household type including census family structure,88038,104302,18.5,73275,89181,21.7,2006,2510,14230
+6106,Region 6,Region,Northwest Territories,61,6.4,100,Total  Household type including census family structure,118198,141700,19.9,99038,118549,19.7,2006,6830,14230
+6204,Baffin,Region,Nunavut,62,8.8,100,Total  Household type including census family structure,78775,104896,33.2,69120,90837,31.4,2006,4405,7855
+6205,Keewatin,Region,Nunavut,62,6.9,100,Total  Household type including census family structure,58965,93294,58.2,53419,82688,54.8,2006,2080,7855
+6208,Kitikmeot,Region,Nunavut,62,6.9,100,Total  Household type including census family structure,67044,77397,15.4,60288,70400,16.8,2006,1370,7855
+1001,Division No.  1,Census division,Newfoundland and Labrador,10,3.7,0,Total  Household type including census family structure,57667,74676,29.5,49750,64504,29.7,2016,112620,218670
+1002,Division No.  2,Census division,Newfoundland and Labrador,10,4.2,0,Total  Household type including census family structure,47391,60912,28.5,42664,54629,28,2016,8735,218670
+1003,Division No.  3,Census division,Newfoundland and Labrador,10,4.3,0,Total  Household type including census family structure,44283,56224,27,39822,51309,28.8,2016,6770,218670
+1004,Division No.  4,Census division,Newfoundland and Labrador,10,4.2,0,Total  Household type including census family structure,39831,44282,11.2,36374,41079,12.9,2016,9345,218670
+1005,Division No.  5,Census division,Newfoundland and Labrador,10,4.7,0,Total  Household type including census family structure,52627,62565,18.9,46424,55417,19.4,2016,17890,218670
+1006,Division No.  6,Census division,Newfoundland and Labrador,10,4.4,0,Total  Household type including census family structure,51534,61250,18.9,45709,54440,19.1,2016,16435,218670
+1007,Division No.  7,Census division,Newfoundland and Labrador,10,3.7,0,Total  Household type including census family structure,45846,57183,24.7,41485,51484,24.1,2016,14570,218670
+1008,Division No.  8,Census division,Newfoundland and Labrador,10,4.4,0,Total  Household type including census family structure,42906,51687,20.5,39384,47341,20.2,2016,15590,218670
+1009,Division No.  9,Census division,Newfoundland and Labrador,10,4.7,0,Total  Household type including census family structure,47241,59858,26.7,42635,54037,26.7,2016,6685,218670
+1010,Division No. 10,Census division,Newfoundland and Labrador,10,4,0,Total  Household type including census family structure,80063,112768,40.8,67664,92764,37.1,2016,9195,218670
+1011,Division No. 11,Census division,Newfoundland and Labrador,10,13,1100,Total  Household type including census family structure,60501,70315,16.2,53632,62610,16.7,2016,835,218670
+1101,Kings,County,Prince Edward Island,11,4.1,0,Total  Household type including census family structure,52403,57799,10.3,46916,50903,8.5,2016,7220,59470
+1102,Queens,County,Prince Edward Island,11,4.2,0,Total  Household type including census family structure,57216,63770,11.5,50105,55200,10.2,2016,33975,59470
+1103,Prince,County,Prince Edward Island,11,4,0,Total  Household type including census family structure,52655,58196,10.5,46388,51240,10.5,2016,18275,59470
+1201,Shelburne,County,Nova Scotia,12,3.9,0,Total  Household type including census family structure,47911,57462,19.9,42907,50251,17.1,2016,6380,402000
+1202,Yarmouth,County,Nova Scotia,12,4.2,0,Total  Household type including census family structure,49390,54006,9.3,43614,48276,10.7,2016,10795,402000
+1203,Digby,County,Nova Scotia,12,4.2,0,Total  Household type including census family structure,45323,47922,5.7,40628,43676,7.5,2016,8040,402000
+1204,Queens,County,Nova Scotia,12,4.8,0,Total  Household type including census family structure,47219,47548,0.7,41336,43520,5.3,2016,4765,402000
+1205,Annapolis,County,Nova Scotia,12,4.5,0,Total  Household type including census family structure,43837,48116,9.8,39767,43746,10,2016,9380,402000
+1206,Lunenburg,County,Nova Scotia,12,4,0,Total  Household type including census family structure,51165,54833,7.2,45257,48915,8.1,2016,21440,402000
+1207,Kings,County,Nova Scotia,12,4,0,Total  Household type including census family structure,52926,57776,9.2,46022,50936,10.7,2016,25955,402000
+1208,Hants,County,Nova Scotia,12,3.5,0,Total  Household type including census family structure,58728,65028,10.7,51171,56174,9.8,2016,17440,402000
+1209,Halifax,County,Nova Scotia,12,3.7,0,Total  Household type including census family structure,64004,69522,8.6,54301,59240,9.1,2016,173460,402000
+1210,Colchester,County,Nova Scotia,12,3.8,0,Total  Household type including census family structure,50641,55371,9.3,45061,49022,8.8,2016,22230,402000
+1211,Cumberland,County,Nova Scotia,12,4.5,0,Total  Household type including census family structure,45493,49883,9.6,41118,45168,9.8,2016,13615,402000
+1212,Pictou,County,Nova Scotia,12,4,0,Total  Household type including census family structure,51411,56066,9.1,45011,49544,10.1,2016,19305,402000
+1213,Guysborough,County,Nova Scotia,12,5.6,0,Total  Household type including census family structure,41294,49253,19.3,38559,44978,16.6,2016,3550,402000
+1214,Antigonish,County,Nova Scotia,12,3.9,0,Total  Household type including census family structure,58648,64558,10.1,51132,56192,9.9,2016,8130,402000
+1215,Inverness,County,Nova Scotia,12,5.1,0,Total  Household type including census family structure,54054,58432,8.1,47224,51584,9.2,2016,7350,402000
+1216,Richmond,County,Nova Scotia,12,4.4,0,Total  Household type including census family structure,47589,53099,11.6,42670,47733,11.9,2016,3985,402000
+1217,Cape Breton,County,Nova Scotia,12,3.9,0,Total  Household type including census family structure,47876,52914,10.5,43222,47624,10.2,2016,43080,402000
+1218,Victoria,County,Nova Scotia,12,4.7,0,Total  Household type including census family structure,52177,56794,8.8,46568,50778,9,2016,3100,402000
+1301,Saint John,County,New Brunswick,13,4.1,0,Total  Household type including census family structure,49896,53387,7,44206,47672,7.8,2016,32855,319780
+1302,Charlotte,County,New Brunswick,13,3.7,0,Total  Household type including census family structure,48363,55701,15.2,43361,49858,15,2016,11135,319780
+1303,Sunbury,County,New Brunswick,13,4.9,0,Total  Household type including census family structure,66189,71512,8,56148,61653,9.8,2016,10900,319780
+1304,Queens,County,New Brunswick,13,3.6,0,Total  Household type including census family structure,44528,48539,9,40658,44567,9.6,2016,4875,319780
+1305,Kings,County,New Brunswick,13,2.9,0,Total  Household type including census family structure,68087,76290,12,58115,65597,12.9,2016,27025,319780
+1306,Albert,County,New Brunswick,13,3.1,0,Total  Household type including census family structure,64242,66521,3.5,55009,58251,5.9,2016,12220,319780
+1307,Westmorland,County,New Brunswick,13,4.1,0,Total  Household type including census family structure,57134,61903,8.3,49688,54448,9.6,2016,64040,319780
+1308,Kent,County,New Brunswick,13,3.7,0,Total  Household type including census family structure,46503,54123,16.4,42287,49053,16,2016,13235,319780
+1309,Northumberland,County,New Brunswick,13,3.8,0,Total  Household type including census family structure,47586,55223,16,43267,49737,15,2016,19360,319780
+1310,York,County,New Brunswick,13,3.6,0,Total  Household type including census family structure,60116,65274,8.6,52126,57071,9.5,2016,42010,319780
+1311,Carleton,County,New Brunswick,13,3.4,0,Total  Household type including census family structure,51625,55749,8,45849,50348,9.8,2016,10765,319780
+1312,Victoria,County,New Brunswick,13,3.9,0,Total  Household type including census family structure,45449,49146,8.1,42216,45196,7.1,2016,8160,319780
+1313,Madawaska,County,New Brunswick,13,4.3,0,Total  Household type including census family structure,50574,53146,5.1,44736,47780,6.8,2016,14505,319780
+1314,Restigouche,County,New Brunswick,13,4.4,0,Total  Household type including census family structure,44966,49553,10.2,41178,45133,9.6,2016,13990,319780
+1315,Gloucester,County,New Brunswick,13,4.1,0,Total  Household type including census family structure,47199,52793,11.9,42565,47671,12,2016,34705,319780
+2401,Les Îles-de-la-Madeleine,Territoire équivalent,Quebec,24,3.5,0,Total  Household type including census family structure,56695,61243,8,50862,53947,6.1,2016,5530,3531640
+2402,Le Rocher-Percé,Municipalité régionale de comté,Quebec,24,3.3,0,Total  Household type including census family structure,42682,47957,12.4,38825,43993,13.3,2016,8020,3531640
+2403,La Côte-de-Gaspé,Municipalité régionale de comté,Quebec,24,3.2,0,Total  Household type including census family structure,51146,57676,12.8,45551,51194,12.4,2016,7635,3531640
+2404,La Haute-Gaspésie,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,37578,45046,19.9,35131,41365,17.7,2016,5270,3531640
+2405,Bonaventure,Municipalité régionale de comté,Quebec,24,4.5,0,Total  Household type including census family structure,48638,53346,9.7,43687,47762,9.3,2016,7900,3531640
+2406,Avignon,Municipalité régionale de comté,Quebec,24,6.7,0,Total  Household type including census family structure,46665,48370,3.7,42146,44483,5.5,2016,6570,3531640
+2407,La Matapédia,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,43206,47488,9.9,39794,42958,8,2016,8140,3531640
+2408,Matane,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,43079,47821,11,39629,42825,8.1,2016,10180,3531640
+2409,La Mitis,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,44193,48996,10.9,40055,44203,10.4,2016,8205,3531640
+2410,Rimouski-Neigette,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,51602,56835,10.1,45345,49479,9.1,2016,26110,3531640
+2411,Les Basques,Municipalité régionale de comté,Quebec,24,4.7,0,Total  Household type including census family structure,41259,44809,8.6,37553,40546,8,2016,4065,3531640
+2412,Rivière-du-Loup,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,50704,55865,10.2,45323,49381,9,2016,15155,3531640
+2413,Témiscouata,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,44285,49317,11.4,40995,44751,9.2,2016,8825,3531640
+2414,Kamouraska,Municipalité régionale de comté,Quebec,24,4.3,0,Total  Household type including census family structure,51472,54854,6.6,45355,48826,7.7,2016,9150,3531640
+2415,Charlevoix-Est,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,54353,55727,2.5,48262,49203,1.9,2016,6980,3531640
+2416,Charlevoix,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,51123,56806,11.1,45963,50560,10,2016,5780,3531640
+2417,L'Islet,Municipalité régionale de comté,Quebec,24,3.3,0,Total  Household type including census family structure,48486,52042,7.3,43276,46171,6.7,2016,8020,3531640
+2418,Montmagny,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,47094,49649,5.4,42465,44466,4.7,2016,10420,3531640
+2419,Bellechasse,Municipalité régionale de comté,Quebec,24,4.1,0,Total  Household type including census family structure,54371,62039,14.1,48151,54229,12.6,2016,15625,3531640
+2420,L'Île-d'Orléans,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,66321,77568,17,57769,65856,14,2016,3040,3531640
+2421,La Côte-de-Beaupré,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,61842,71277,15.3,53862,60827,12.9,2016,11850,3531640
+2422,La Jacques-Cartier,Municipalité régionale de comté,Quebec,24,3.2,0,Total  Household type including census family structure,77773,90884,16.9,65654,75523,15,2016,16330,3531640
+2423,Québec,Territoire équivalent,Quebec,24,4.2,0,Total  Household type including census family structure,55406,61175,10.4,47688,52592,10.3,2016,267140,3531640
+2425,Lévis,Territoire équivalent,Quebec,24,3.4,0,Total  Household type including census family structure,68071,74101,8.9,57517,62634,8.9,2016,60780,3531640
+2426,La Nouvelle-Beauce,Municipalité régionale de comté,Quebec,24,3.1,0,Total  Household type including census family structure,60790,67947,11.8,52664,58877,11.8,2016,14790,3531640
+2427,Robert-Cliche,Municipalité régionale de comté,Quebec,24,3,0,Total  Household type including census family structure,53341,56640,6.2,47610,50309,5.7,2016,8000,3531640
+2428,Les Etchemins,Municipalité régionale de comté,Quebec,24,4.1,0,Total  Household type including census family structure,47120,50534,7.2,43120,45568,5.7,2016,7320,3531640
+2429,Beauce-Sartigan,Municipalité régionale de comté,Quebec,24,4.1,0,Total  Household type including census family structure,52616,55478,5.4,46173,48996,6.1,2016,22860,3531640
+2430,Le Granit,Municipalité régionale de comté,Quebec,24,3.7,0,Total  Household type including census family structure,47949,51422,7.2,42981,46252,7.6,2016,9560,3531640
+2431,Les Appalaches,Municipalité régionale de comté,Quebec,24,4.7,0,Total  Household type including census family structure,45730,48981,7.1,41263,44293,7.3,2016,19670,3531640
+2432,L'Érable,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,46874,50716,8.2,42673,45540,6.7,2016,10270,3531640
+2433,Lotbinière,Municipalité régionale de comté,Quebec,24,3.1,0,Total  Household type including census family structure,53861,61017,13.3,48390,53783,11.1,2016,13350,3531640
+2434,Portneuf,Municipalité régionale de comté,Quebec,24,3.7,0,Total  Household type including census family structure,52906,60385,14.1,46854,52618,12.3,2016,23140,3531640
+2435,Mékinac,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,41767,45266,8.4,38280,41230,7.7,2016,6010,3531640
+2436,Shawinigan,Territoire équivalent,Quebec,24,4,0,Total  Household type including census family structure,41865,44555,6.4,37715,40322,6.9,2016,24410,3531640
+2437,Francheville,Census division,Quebec,24,4.3,0,Total  Household type including census family structure,47709,51335,7.6,42550,45538,7,2016,71355,3531640
+2438,Bécancour,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,50811,54778,7.8,45269,48661,7.5,2016,9040,3531640
+2439,Arthabaska,Municipalité régionale de comté,Quebec,24,4.4,0,Total  Household type including census family structure,49410,53697,8.7,44093,47458,7.6,2016,31450,3531640
+2440,Les Sources,Municipalité régionale de comté,Quebec,24,4.5,0,Total  Household type including census family structure,45623,45595,-0.1,41677,42317,1.5,2016,6480,3531640
+2441,Le Haut-Saint-François,Municipalité régionale de comté,Quebec,24,3.7,0,Total  Household type including census family structure,46831,52022,11.1,42802,46995,9.8,2016,9580,3531640
+2442,Le Val-Saint-François,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,56557,60791,7.5,49305,52822,7.1,2016,13015,3531640
+2443,Sherbrooke,Territoire équivalent,Quebec,24,4.2,0,Total  Household type including census family structure,48735,51706,6.1,43336,45946,6,2016,73510,3531640
+2444,Coaticook,Municipalité régionale de comté,Quebec,24,3.7,0,Total  Household type including census family structure,52524,54090,3,46992,48501,3.2,2016,7820,3531640
+2445,Memphrémagog,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,52469,58045,10.6,45943,50791,10.6,2016,22920,3531640
+2446,Brome-Missisquoi,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,53741,57801,7.6,47189,50794,7.6,2016,25865,3531640
+2447,La Haute-Yamaska,Municipalité régionale de comté,Quebec,24,4,0,Total  Household type including census family structure,53704,55259,2.9,47159,48680,3.2,2016,38825,3531640
+2448,Acton,Municipalité régionale de comté,Quebec,24,3.5,0,Total  Household type including census family structure,48992,51261,4.6,43565,46167,6,2016,6635,3531640
+2449,Drummond,Municipalité régionale de comté,Quebec,24,4.4,0,Total  Household type including census family structure,49135,52580,7,43760,46816,7,2016,45335,3531640
+2450,Nicolet-Yamaska,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,47697,53093,11.3,43322,47506,9.7,2016,10085,3531640
+2451,Maskinongé,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,46834,50546,7.9,41864,45608,8.9,2016,16450,3531640
+2452,D'Autray,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,49358,55057,11.5,44069,49090,11.4,2016,18225,3531640
+2453,Pierre-De Saurel,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,50282,52922,5.3,44440,47068,5.9,2016,23795,3531640
+2454,Les Maskoutains,Municipalité régionale de comté,Quebec,24,4.2,0,Total  Household type including census family structure,53144,55917,5.2,46908,49272,5,2016,38020,3531640
+2455,Rouville,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,62598,65186,4.1,54217,56259,3.8,2016,14935,3531640
+2456,Le Haut-Richelieu,Municipalité régionale de comté,Quebec,24,3.6,0,Total  Household type including census family structure,56886,61778,8.6,49451,53653,8.5,2016,50060,3531640
+2457,La Vallée-du-Richelieu,Municipalité régionale de comté,Quebec,24,2.6,0,Total  Household type including census family structure,77429,84889,9.6,64807,70469,8.7,2016,48750,3531640
+2458,Longueuil,Territoire équivalent,Quebec,24,3.2,0,Total  Household type including census family structure,63230,66932,5.9,54066,57401,6.2,2016,175735,3531640
+2459,Marguerite-D'Youville,Municipalité régionale de comté,Quebec,24,2.4,0,Total  Household type including census family structure,81051,84387,4.1,67585,70016,3.6,2016,29945,3531640
+2460,L'Assomption,Municipalité régionale de comté,Quebec,24,2.3,0,Total  Household type including census family structure,72231,74714,3.4,60679,63345,4.4,2016,49765,3531640
+2461,Joliette,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,49733,53626,7.8,44021,47685,8.3,2016,29700,3531640
+2462,Matawinie,Municipalité régionale de comté,Quebec,24,5.2,0,Total  Household type including census family structure,46775,49542,5.9,41802,44647,6.8,2016,23140,3531640
+2463,Montcalm,Municipalité régionale de comté,Quebec,24,3.1,0,Total  Household type including census family structure,50887,58065,14.1,45446,51046,12.3,2016,21610,3531640
+2464,Les Moulins,Municipalité régionale de comté,Quebec,24,2.1,0,Total  Household type including census family structure,74720,78813,5.5,63015,66379,5.3,2016,59705,3531640
+2465,Laval,Territoire équivalent,Quebec,24,2.9,0,Total  Household type including census family structure,65007,70216,8,55680,60559,8.8,2016,160325,3531640
+2466,Montréal,Territoire équivalent,Quebec,24,3.8,0,Total  Household type including census family structure,47539,52519,10.5,42030,46559,10.8,2016,870370,3531640
+2467,Roussillon,Municipalité régionale de comté,Quebec,24,2.4,20000,Total  Household type including census family structure,74032,78596,6.2,62726,66339,5.8,2016,66260,3531640
+2468,Les Jardins-de-Napierville,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,57064,64332,12.7,50093,56274,12.3,2016,11205,3531640
+2469,Le Haut-Saint-Laurent,Municipalité régionale de comté,Quebec,24,5.9,0,Total  Household type including census family structure,47463,50777,7,42840,46058,7.5,2016,9665,3531640
+2470,Beauharnois-Salaberry,Municipalité régionale de comté,Quebec,24,4.3,0,Total  Household type including census family structure,51677,54509,5.5,45404,48139,6,2016,28865,3531640
+2471,Vaudreuil-Soulanges,Municipalité régionale de comté,Quebec,24,2.3,0,Total  Household type including census family structure,76082,78913,3.7,63627,66445,4.4,2016,57515,3531640
+2472,Deux-Montagnes,Municipalité régionale de comté,Quebec,24,2.5,20000,Total  Household type including census family structure,67886,71086,4.7,56894,60561,6.4,2016,39745,3531640
+2473,Thérèse-De Blainville,Municipalité régionale de comté,Quebec,24,3,0,Total  Household type including census family structure,76248,77568,1.7,63701,65391,2.7,2016,60765,3531640
+2474,Mirabel,Territoire équivalent,Quebec,24,2,0,Total  Household type including census family structure,70905,75895,7,59755,63940,7,2016,19630,3531640
+2475,La Rivière-du-Nord,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,55727,59462,6.7,48636,51883,6.7,2016,55010,3531640
+2476,Argenteuil,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,48895,50415,3.1,43044,45305,5.3,2016,14790,3531640
+2477,Les Pays-d'en-Haut,Municipalité régionale de comté,Quebec,24,3.5,0,Total  Household type including census family structure,58258,58800,0.9,50074,50737,1.3,2016,20695,3531640
+2478,Les Laurentides,Municipalité régionale de comté,Quebec,24,4.1,20000,Total  Household type including census family structure,49258,50630,2.8,43780,45171,3.2,2016,21970,3531640
+2479,Antoine-Labelle,Municipalité régionale de comté,Quebec,24,5.8,0,Total  Household type including census family structure,45356,46928,3.5,40919,42639,4.2,2016,16475,3531640
+2480,Papineau,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,46996,51196,8.9,41880,45846,9.5,2016,10400,3531640
+2481,Gatineau,Territoire équivalent,Quebec,24,3.4,0,Total  Household type including census family structure,67678,68703,1.5,56913,58063,2,2016,118385,3531640
+2482,Les Collines-de-l'Outaouais,Municipalité régionale de comté,Quebec,24,2.8,0,Total  Household type including census family structure,78279,90482,15.6,65161,74877,14.9,2016,18755,3531640
+2483,La Vallée-de-la-Gatineau,Municipalité régionale de comté,Quebec,24,6.9,20000,Total  Household type including census family structure,41916,46072,9.9,38685,41913,8.3,2016,9390,3531640
+2484,Pontiac,Municipalité régionale de comté,Quebec,24,5.2,0,Total  Household type including census family structure,47049,50567,7.5,42129,46033,9.3,2016,6205,3531640
+2485,Témiscamingue,Municipalité régionale de comté,Quebec,24,5.7,0,Total  Household type including census family structure,50382,55627,10.4,44452,48901,10,2016,7130,3531640
+2486,Rouyn-Noranda,Territoire équivalent,Quebec,24,4.2,0,Total  Household type including census family structure,52333,62994,20.4,45640,54020,18.4,2016,18850,3531640
+2487,Abitibi-Ouest,Municipalité régionale de comté,Quebec,24,3.5,0,Total  Household type including census family structure,49232,57116,16,43638,50199,15,2016,9025,3531640
+2488,Abitibi,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,55448,64064,15.5,48580,55583,14.4,2016,10530,3531640
+2489,La Vallée-de-l'Or,Municipalité régionale de comté,Quebec,24,4.7,0,Total  Household type including census family structure,53153,62540,17.7,46347,53992,16.5,2016,19040,3531640
+2490,La Tuque,Territoire équivalent,Quebec,24,7.6,0,Total  Household type including census family structure,50069,51384,2.6,43857,46088,5.1,2016,6380,3531640
+2491,Le Domaine-du-Roy,Municipalité régionale de comté,Quebec,24,3.9,0,Total  Household type including census family structure,51854,54587,5.3,45482,48562,6.8,2016,13730,3531640
+2492,Maria-Chapdelaine,Municipalité régionale de comté,Quebec,24,4.3,0,Total  Household type including census family structure,49808,54479,9.4,44501,48221,8.4,2016,10805,3531640
+2493,Lac-Saint-Jean-Est,Municipalité régionale de comté,Quebec,24,3.8,0,Total  Household type including census family structure,54745,58076,6.1,47698,51031,7,2016,22905,3531640
+2494,Le Saguenay-et-son-Fjord,Census division,Quebec,24,3.8,0,Total  Household type including census family structure,54702,59268,8.3,47851,51655,7.9,2016,75350,3531640
+2495,La Haute-Côte-Nord,Municipalité régionale de comté,Quebec,24,5.8,0,Total  Household type including census family structure,50688,51760,2.1,45191,46421,2.7,2016,4980,3531640
+2496,Manicouagan,Municipalité régionale de comté,Quebec,24,4.6,0,Total  Household type including census family structure,66709,64034,-4,56443,54980,-2.6,2016,13740,3531640
+2497,Sept-Rivières--Caniapiscau,Census division,Quebec,24,5.8,0,Total  Household type including census family structure,64932,72600,11.8,55495,61767,11.3,2016,16765,3531640
+2498,Minganie--Le Golfe-du-Saint-Laurent,Census division,Quebec,24,7.9,0,Total  Household type including census family structure,55498,70042,26.2,50876,61275,20.4,2016,4465,3531640
+2499,Nord-du-Québec,Census division,Quebec,24,10,1100,Total  Household type including census family structure,73465,82065,11.7,64330,71575,11.3,2016,13675,3531640
+3501,"Stormont, Dundas and Glengarry",United counties,Ontario,35,4.5,0,Total  Household type including census family structure,57365,59526,3.8,50814,53615,5.5,2016,47830,5169170
+3502,Prescott and Russell,United counties,Ontario,35,3.9,0,Total  Household type including census family structure,71591,78748,10,61271,68488,11.8,2016,35390,5169170
+3506,Ottawa,Census division,Ontario,35,3.5,0,Total  Household type including census family structure,82537,85981,4.2,69155,73745,6.6,2016,373755,5169170
+3507,Leeds and Grenville,United counties,Ontario,35,4.4,0,Total  Household type including census family structure,64571,68305,5.8,56064,60569,8,2016,42750,5169170
+3509,Lanark,County,Ontario,35,4.6,0,Total  Household type including census family structure,67316,71660,6.5,58359,63058,8.1,2016,28580,5169170
+3510,Frontenac,County,Ontario,35,4.4,0,Total  Household type including census family structure,64251,69432,8.1,56093,61139,9,2016,64295,5169170
+3511,Lennox and Addington,County,Ontario,35,5.6,0,Total  Household type including census family structure,63916,71725,12.2,55948,63324,13.2,2016,17055,5169170
+3512,Hastings,County,Ontario,35,4.4,0,Total  Household type including census family structure,58947,61109,3.7,51753,54900,6.1,2016,57020,5169170
+3513,Prince Edward,Census division,Ontario,35,5,0,Total  Household type including census family structure,63052,66140,4.9,54641,59259,8.5,2016,10730,5169170
+3514,Northumberland,County,Ontario,35,5,0,Total  Household type including census family structure,66040,70208,6.3,57580,62187,8,2016,35685,5169170
+3515,Peterborough,County,Ontario,35,4.6,0,Total  Household type including census family structure,61120,64437,5.4,53658,57588,7.3,2016,57745,5169170
+3516,Kawartha Lakes,Census division,Ontario,35,4.7,0,Total  Household type including census family structure,62681,67187,7.2,55418,59733,7.8,2016,31110,5169170
+3518,Durham,Regional municipality,Ontario,35,3,0,Total  Household type including census family structure,89204,89834,0.7,74734,77398,3.6,2016,227905,5169170
+3519,York,Regional municipality,Ontario,35,2.4,0,Total  Household type including census family structure,96918,95776,-1.2,82078,82804,0.9,2016,357085,5169170
+3520,Toronto,Census division,Ontario,35,3.8,0,Total  Household type including census family structure,62506,65829,5.3,54700,58264,6.5,2016,1112930,5169170
+3521,Peel,Regional municipality,Ontario,35,2.5,0,Total  Household type including census family structure,85957,86233,0.3,73591,75667,2.8,2016,430180,5169170
+3522,Dufferin,County,Ontario,35,3.5,0,Total  Household type including census family structure,83791,89608,6.9,71003,77256,8.8,2016,21915,5169170
+3523,Wellington,County,Ontario,35,3.8,0,Total  Household type including census family structure,78263,81347,3.9,66766,70728,5.9,2016,85285,5169170
+3524,Halton,Regional municipality,Ontario,35,2.7,0,Total  Household type including census family structure,98827,103009,4.2,81684,87183,6.7,2016,192975,5169170
+3525,Hamilton,Census division,Ontario,35,3.8,0,Total  Household type including census family structure,65443,69024,5.5,56878,61168,7.5,2016,211595,5169170
+3526,Niagara,Regional municipality,Ontario,35,4,0,Total  Household type including census family structure,64476,65086,0.9,56244,58235,3.5,2016,183825,5169170
+3528,Haldimand-Norfolk,Census division,Ontario,35,4.5,20000,Total  Household type including census family structure,67100,70686,5.3,58415,62692,7.3,2016,43560,5169170
+3529,Brant,Census division,Ontario,35,4.2,20000,Total  Household type including census family structure,66998,68741,2.6,57959,61112,5.4,2016,52720,5169170
+3530,Waterloo,Regional municipality,Ontario,35,3.6,0,Total  Household type including census family structure,76327,77530,1.6,65286,67887,4,2016,203835,5169170
+3531,Perth,County,Ontario,35,3.9,0,Total  Household type including census family structure,67742,70336,3.8,58737,62229,5.9,2016,30710,5169170
+3532,Oxford,County,Ontario,35,3.7,0,Total  Household type including census family structure,69714,72294,3.7,60367,63630,5.4,2016,44265,5169170
+3534,Elgin,County,Ontario,35,3.7,0,Total  Household type including census family structure,68427,66494,-2.8,58781,59283,0.9,2016,34995,5169170
+3536,Chatham-Kent,Census division,Ontario,35,4.3,0,Total  Household type including census family structure,60330,58185,-3.6,52666,52667,0,2016,43170,5169170
+3537,Essex,County,Ontario,35,4.2,0,Total  Household type including census family structure,70697,66658,-5.7,60744,59274,-2.4,2016,159050,5169170
+3538,Lambton,County,Ontario,35,4.2,0,Total  Household type including census family structure,67612,70022,3.6,58650,61663,5.1,2016,54480,5169170
+3539,Middlesex,County,Ontario,35,3.5,20000,Total  Household type including census family structure,65586,64797,-1.2,56814,57589,1.4,2016,190045,5169170
+3540,Huron,County,Ontario,35,5,0,Total  Household type including census family structure,61466,65944,7.3,53938,58785,9,2016,24190,5169170
+3541,Bruce,County,Ontario,35,6,0,Total  Household type including census family structure,64409,71193,10.5,56177,62926,12,2016,28865,5169170
+3542,Grey,County,Ontario,35,4.9,0,Total  Household type including census family structure,59050,62935,6.6,52406,56458,7.7,2016,39560,5169170
+3543,Simcoe,County,Ontario,35,4,0,Total  Household type including census family structure,73740,76489,3.7,63225,67022,6,2016,183540,5169170
+3544,Muskoka,District municipality,Ontario,35,5.8,20000,Total  Household type including census family structure,62452,67880,8.7,54425,60245,10.7,2016,25430,5169170
+3546,Haliburton,County,Ontario,35,6.4,0,Total  Household type including census family structure,53477,58125,8.7,47726,52379,9.7,2016,8445,5169170
+3547,Renfrew,County,Ontario,35,5,0,Total  Household type including census family structure,62088,67683,9,54088,59769,10.5,2016,42775,5169170
+3548,Nipissing,District,Ontario,35,5,0,Total  Household type including census family structure,55325,60303,9,49260,54303,10.2,2016,36050,5169170
+3549,Parry Sound,District,Ontario,35,6.3,0,Total  Household type including census family structure,54642,60251,10.3,48605,54442,12,2016,18680,5169170
+3551,Manitoulin,District,Ontario,35,8.2,100,Total  Household type including census family structure,46383,50227,8.3,42595,47293,11,2016,5750,5169170
+3552,Sudbury,District,Ontario,35,6,0,Total  Household type including census family structure,57104,65333,14.4,50208,58004,15.5,2016,9375,5169170
+3553,Greater Sudbury,Census division,Ontario,35,4.1,0,Total  Household type including census family structure,65119,71791,10.2,56301,62845,11.6,2016,69200,5169170
+3554,Timiskaming,District,Ontario,35,5,0,Total  Household type including census family structure,51459,59360,15.4,46507,53008,14,2016,14395,5169170
+3556,Cochrane,District,Ontario,35,5.1,0,Total  Household type including census family structure,63557,68349,7.5,55394,60192,8.7,2016,34010,5169170
+3557,Algoma,District,Ontario,35,4.8,20000,Total  Household type including census family structure,56285,58664,4.2,49846,53127,6.6,2016,51070,5169170
+3558,Thunder Bay,District,Ontario,35,5.3,0,Total  Household type including census family structure,64966,68062,4.8,56342,60241,6.9,2016,63000,5169170
+3559,Rainy River,District,Ontario,35,6.4,0,Total  Household type including census family structure,60948,64320,5.5,53600,57632,7.5,2016,8435,5169170
+3560,Kenora,District,Ontario,35,10.7,21100,Total  Household type including census family structure,62373,66198,6.1,55496,59934,8,2016,23930,5169170
+4601,Division No.  1,Census division,Manitoba,46,8.5,100,Total  Household type including census family structure,52810,62660,18.7,47220,54724,15.9,2016,8080,489055
+4602,Division No.  2,Census division,Manitoba,46,3.5,0,Total  Household type including census family structure,61932,74504,20.3,54505,64666,18.6,2016,25465,489055
+4603,Division No.  3,Census division,Manitoba,46,3.8,0,Total  Household type including census family structure,52772,65475,24.1,47911,57946,20.9,2016,18720,489055
+4604,Division No.  4,Census division,Manitoba,46,8.5,0,Total  Household type including census family structure,42079,57088,35.7,38925,49997,28.4,2016,3705,489055
+4605,Division No.  5,Census division,Manitoba,46,4.9,0,Total  Household type including census family structure,47129,63147,34,42994,54920,27.7,2016,5440,489055
+4606,Division No.  6,Census division,Manitoba,46,4.4,0,Total  Household type including census family structure,44622,64055,43.6,40923,56576,38.2,2016,4105,489055
+4607,Division No.  7,Census division,Manitoba,46,4.1,0,Total  Household type including census family structure,55542,69374,24.9,48145,59418,23.4,2016,27635,489055
+4608,Division No.  8,Census division,Manitoba,46,5.9,0,Total  Household type including census family structure,43135,53996,25.2,39726,48917,23.1,2016,4635,489055
+4609,Division No.  9,Census division,Manitoba,46,4.9,0,Total  Household type including census family structure,54651,61336,12.2,47770,54165,13.4,2016,9170,489055
+4610,Division No. 10,Census division,Manitoba,46,3,0,Total  Household type including census family structure,86969,109483,25.9,72060,89639,24.4,2016,3680,489055
+4611,Division No. 11,Census division,Manitoba,46,3.3,0,Total  Household type including census family structure,59013,68552,16.2,50840,59102,16.3,2016,282115,489055
+4612,Division No. 12,Census division,Manitoba,46,3.5,0,Total  Household type including census family structure,73426,88558,20.6,62181,74325,19.5,2016,8875,489055
+4613,Division No. 13,Census division,Manitoba,46,3.5,0,Total  Household type including census family structure,77802,88680,14,64882,74180,14.3,2016,18430,489055
+4614,Division No. 14,Census division,Manitoba,46,5.8,0,Total  Household type including census family structure,70017,86932,24.2,58837,72896,23.9,2016,6650,489055
+4615,Division No. 15,Census division,Manitoba,46,4.7,0,Total  Household type including census family structure,43635,60298,38.2,40399,53191,31.7,2016,8560,489055
+4616,Division No. 16,Census division,Manitoba,46,6.4,0,Total  Household type including census family structure,36328,51272,41.1,34543,46793,35.5,2016,4120,489055
+4617,Division No. 17,Census division,Manitoba,46,6,0,Total  Household type including census family structure,40605,50775,25,37658,45874,21.8,2016,9460,489055
+4618,Division No. 18,Census division,Manitoba,46,7.3,100,Total  Household type including census family structure,46208,54491,17.9,41574,48973,17.8,2016,10035,489055
+4619,Division No. 19,Census division,Manitoba,46,7.3,100,Total  Household type including census family structure,26810,34944,30.3,26552,34221,28.9,2016,4815,489055
+4620,Division No. 20,Census division,Manitoba,46,6.5,0,Total  Household type including census family structure,42786,53691,25.5,39327,48849,24.2,2016,4180,489055
+4621,Division No. 21,Census division,Manitoba,46,10.4,1100,Total  Household type including census family structure,58843,72028,22.4,52941,63689,20.3,2016,7865,489055
+4622,Division No. 22,Census division,Manitoba,46,9.1,100,Total  Household type including census family structure,51965,64061,23.3,49463,59665,20.6,2016,10890,489055
+4623,Division No. 23,Census division,Manitoba,46,10.4,1200,Total  Household type including census family structure,51719,55219,6.8,47597,52144,9.6,2016,2425,489055
+4701,Division No.  1,Census division,Saskatchewan,47,4.6,0,Total  Household type including census family structure,59250,87916,48.4,52200,74357,42.4,2016,12890,432615
+4702,Division No.  2,Census division,Saskatchewan,47,4,0,Total  Household type including census family structure,53882,77118,43.1,47652,67157,40.9,2016,9385,432615
+4703,Division No.  3,Census division,Saskatchewan,47,6.4,0,Total  Household type including census family structure,45178,64805,43.4,41133,57929,40.8,2016,5355,432615
+4704,Division No.  4,Census division,Saskatchewan,47,7,0,Total  Household type including census family structure,47233,65139,37.9,42595,58054,36.3,2016,4180,432615
+4705,Division No.  5,Census division,Saskatchewan,47,4.9,0,Total  Household type including census family structure,49420,67694,37,43435,59984,38.1,2016,13560,432615
+4706,Division No.  6,Census division,Saskatchewan,47,4,0,Total  Household type including census family structure,64111,82590,28.8,55020,70984,29,2016,105685,432615
+4707,Division No.  7,Census division,Saskatchewan,47,4.8,0,Total  Household type including census family structure,52764,68729,30.3,46321,60666,31,2016,19760,432615
+4708,Division No.  8,Census division,Saskatchewan,47,5.2,0,Total  Household type including census family structure,55540,74155,33.5,48751,64588,32.5,2016,12755,432615
+4709,Division No.  9,Census division,Saskatchewan,47,5.2,0,Total  Household type including census family structure,42191,58747,39.2,38844,53214,37,2016,15295,432615
+4710,Division No. 10,Census division,Saskatchewan,47,4.4,0,Total  Household type including census family structure,37322,51328,37.5,35044,47096,34.4,2016,6980,432615
+4711,Division No. 11,Census division,Saskatchewan,47,4.6,0,Total  Household type including census family structure,59296,81913,38.1,51677,70753,36.9,2016,119130,432615
+4712,Division No. 12,Census division,Saskatchewan,47,4.5,0,Total  Household type including census family structure,52225,75429,44.4,46691,65999,41.4,2016,9230,432615
+4713,Division No. 13,Census division,Saskatchewan,47,4.4,0,Total  Household type including census family structure,54938,79227,44.2,48398,68469,41.5,2016,9110,432615
+4714,Division No. 14,Census division,Saskatchewan,47,5.2,0,Total  Household type including census family structure,45452,59103,30,41507,53101,27.9,2016,15225,432615
+4715,Division No. 15,Census division,Saskatchewan,47,5.8,0,Total  Household type including census family structure,52005,71463,37.4,46742,63090,35,2016,32235,432615
+4716,Division No. 16,Census division,Saskatchewan,47,5.7,0,Total  Household type including census family structure,44685,58224,30.3,41250,52871,28.2,2016,14660,432615
+4717,Division No. 17,Census division,Saskatchewan,47,5,100,Total  Household type including census family structure,57646,75633,31.2,50736,66052,30.2,2016,16945,432615
+4718,Division No. 18,Census division,Saskatchewan,47,6.8,100,Total  Household type including census family structure,42264,52685,24.7,40485,50676,25.2,2016,10235,432615
+4801,Division No.  1,Census division,Alberta,48,4.6,0,Total  Household type including census family structure,67213,75141,11.8,58776,66184,12.6,2016,33230,1527685
+4802,Division No.  2,Census division,Alberta,48,4.9,0,Total  Household type including census family structure,64380,76397,18.7,56970,67486,18.5,2016,62825,1527685
+4803,Division No.  3,Census division,Alberta,48,7.3,100,Total  Household type including census family structure,54856,64806,18.1,50499,59130,17.1,2016,13380,1527685
+4804,Division No.  4,Census division,Alberta,48,5.7,0,Total  Household type including census family structure,61810,77728,25.8,55342,67738,22.4,2016,3740,1527685
+4805,Division No.  5,Census division,Alberta,48,6.1,0,Total  Household type including census family structure,64305,77312,20.2,56938,67674,18.9,2016,20020,1527685
+4806,Division No.  6,Census division,Alberta,48,3.9,0,Total  Household type including census family structure,80926,99388,22.8,69311,84636,22.1,2016,558915,1527685
+4807,Division No.  7,Census division,Alberta,48,4.7,0,Total  Household type including census family structure,67833,82031,20.9,59460,71428,20.1,2016,16010,1527685
+4808,Division No.  8,Census division,Alberta,48,5.1,0,Total  Household type including census family structure,74567,87260,17,64640,75297,16.5,2016,80650,1527685
+4809,Division No.  9,Census division,Alberta,48,6.2,100,Total  Household type including census family structure,70887,82399,16.2,61568,71706,16.5,2016,7935,1527685
+4810,Division No. 10,Census division,Alberta,48,4.7,0,Total  Household type including census family structure,63584,82575,29.9,56594,71650,26.6,2016,38245,1527685
+4811,Division No. 11,Census division,Alberta,48,4.4,0,Total  Household type including census family structure,74262,93913,26.5,64203,80153,24.8,2016,518950,1527685
+4812,Division No. 12,Census division,Alberta,48,5.8,20100,Total  Household type including census family structure,70995,94409,33,61179,80523,31.6,2016,24500,1527685
+4813,Division No. 13,Census division,Alberta,48,4.9,0,Total  Household type including census family structure,65001,82013,26.2,57234,71215,24.4,2016,27840,1527685
+4814,Division No. 14,Census division,Alberta,48,3.6,0,Total  Household type including census family structure,85305,96569,13.2,71373,80865,13.3,2016,11595,1527685
+4815,Division No. 15,Census division,Alberta,48,14.6,1200,Total  Household type including census family structure,69667,85760,23.1,60752,74352,22.4,2016,13900,1527685
+4816,Division No. 16,Census division,Alberta,48,14.3,1100,Total  Household type including census family structure,142845,192979,35.1,113093,146417,29.5,2016,26335,1527685
+4817,Division No. 17,Census division,Alberta,48,6,100,Total  Household type including census family structure,66802,78462,17.5,59980,70077,16.8,2016,19745,1527685
+4818,Division No. 18,Census division,Alberta,48,6.3,100,Total  Household type including census family structure,76287,92416,21.1,65362,79067,21,2016,5320,1527685
+4819,Division No. 19,Census division,Alberta,48,5,0,Total  Household type including census family structure,84137,103171,22.6,72302,87078,20.4,2016,44550,1527685
+5901,East Kootenay,Regional district,British Columbia,59,6.2,0,Total  Household type including census family structure,62319,76850,23.3,54613,66876,22.5,2016,25860,1881950
+5903,Central Kootenay,Regional district,British Columbia,59,6.8,0,Total  Household type including census family structure,49276,55532,12.7,44712,49829,11.4,2016,27015,1881950
+5905,Kootenay Boundary,Regional district,British Columbia,59,6.6,0,Total  Household type including census family structure,54424,59721,9.7,48357,52936,9.5,2016,14340,1881950
+5907,Okanagan-Similkameen,Regional district,British Columbia,59,6.6,0,Total  Household type including census family structure,50924,57069,12.1,46001,51289,11.5,2016,37670,1881950
+5909,Fraser Valley,Regional district,British Columbia,59,4.9,0,Total  Household type including census family structure,60908,69289,13.8,54371,61150,12.5,2016,108390,1881950
+5915,Greater Vancouver,Regional district,British Columbia,59,4.4,0,Total  Household type including census family structure,65342,72662,11.2,57414,63365,10.4,2016,960895,1881950
+5917,Capital,Regional district,British Columbia,59,5.1,20000,Total  Household type including census family structure,62639,69665,11.2,54829,60652,10.6,2016,170155,1881950
+5919,Cowichan Valley,Regional district,British Columbia,59,5.7,0,Total  Household type including census family structure,60430,65191,7.9,53490,57783,8,2016,35275,1881950
+5921,Nanaimo,Regional district,British Columbia,59,5,0,Total  Household type including census family structure,55903,62349,11.5,49981,55521,11.1,2016,68905,1881950
+5923,Alberni-Clayoquot,Regional district,British Columbia,59,6.8,100,Total  Household type including census family structure,53944,55278,2.5,48560,49679,2.3,2016,13655,1881950
+5924,Strathcona,Regional district,British Columbia,59,5.2,0,Total  Household type including census family structure,57424,62366,8.6,50987,55487,8.8,2016,19610,1881950
+5926,Comox Valley,Regional district,British Columbia,59,4.1,0,Total  Household type including census family structure,57450,63397,10.4,50800,56286,10.8,2016,29575,1881950
+5927,Powell River,Regional district,British Columbia,59,6.8,100,Total  Household type including census family structure,51575,53056,2.9,46315,47947,3.5,2016,9415,1881950
+5929,Sunshine Coast,Regional district,British Columbia,59,6.7,100,Total  Household type including census family structure,56683,60279,6.3,50524,53727,6.3,2016,13995,1881950
+5931,Squamish-Lillooet,Regional district,British Columbia,59,9.3,100,Total  Household type including census family structure,66786,78581,17.7,58086,68335,17.6,2016,16420,1881950
+5933,Thompson-Nicola,Regional district,British Columbia,59,6,0,Total  Household type including census family structure,59914,69308,15.7,53170,60963,14.7,2016,55500,1881950
+5935,Central Okanagan,Regional district,British Columbia,59,4.6,0,Total  Household type including census family structure,59517,71127,19.5,53119,62366,17.4,2016,81380,1881950
+5937,North Okanagan,Regional district,British Columbia,59,5.1,0,Total  Household type including census family structure,55534,63364,14.1,49592,56311,13.5,2016,35875,1881950
+5939,Columbia-Shuswap,Regional district,British Columbia,59,6.6,0,Total  Household type including census family structure,55464,64009,15.4,49914,56754,13.7,2016,22450,1881950
+5941,Cariboo,Regional district,British Columbia,59,5.7,100,Total  Household type including census family structure,59589,63638,6.8,52759,56156,6.4,2016,26700,1881950
+5943,Mount Waddington,Regional district,British Columbia,59,7.4,100,Total  Household type including census family structure,58948,58912,-0.1,52089,52608,1,2016,4850,1881950
+5945,Central Coast,Regional district,British Columbia,59,11.8,1200,Total  Household type including census family structure,41073,48000,16.9,39964,45824,14.7,2016,1285,1881950
+5947,Skeena-Queen Charlotte,Regional district,British Columbia,59,6.2,100,Total  Household type including census family structure,54425,64411,18.3,48706,57261,17.6,2016,7410,1881950
+5949,Kitimat-Stikine,Regional district,British Columbia,59,6,100,Total  Household type including census family structure,59902,71742,19.8,54328,62936,15.8,2016,14820,1881950
+5951,Bulkley-Nechako,Regional district,British Columbia,59,7,100,Total  Household type including census family structure,66557,76008,14.2,58453,65922,12.8,2016,15100,1881950
+5953,Fraser-Fort George,Regional district,British Columbia,59,4.3,0,Total  Household type including census family structure,72193,77676,7.6,62267,66819,7.3,2016,38600,1881950
+5955,Peace River,Regional district,British Columbia,59,5.6,100,Total  Household type including census family structure,73309,94002,28.2,63515,79573,25.3,2016,24260,1881950
+5957,Stikine,Region,British Columbia,59,37.9,3300,Total  Household type including census family structure,41856,50816,21.4,39424,46549,18.1,2016,365,1881950
+5959,Northern Rockies,Regional district,British Columbia,59,6.3,100,Total  Household type including census family structure,91934,89527,-2.6,78478,77198,-1.6,2016,2180,1881950
+6001,Yukon,Territory,Yukon,60,6.7,100,Total  Household type including census family structure,71093,84521,18.9,62516,73935,18.3,2016,15215,15215
+6101,Region 1,Region,Northwest Territories,61,9.6,100,Total  Household type including census family structure,65792,81536,23.9,56647,72983,28.8,2016,2245,14980
+6102,Region 2,Region,Northwest Territories,61,7.4,100,Total  Household type including census family structure,72448,105728,45.9,61568,88448,43.7,2016,860,14980
+6103,Region 3,Region,Northwest Territories,61,10.4,1200,Total  Household type including census family structure,64896,84864,30.8,58624,78464,33.8,2016,705,14980
+6104,Region 4,Region,Northwest Territories,61,10.1,1200,Total  Household type including census family structure,59392,75584,27.3,52864,68736,30,2016,1140,14980
+6105,Region 5,Region,Northwest Territories,61,6.3,100,Total  Household type including census family structure,88038,104302,18.5,73275,89181,21.7,2016,2690,14980
+6106,Region 6,Region,Northwest Territories,61,6.4,100,Total  Household type including census family structure,118198,141700,19.9,99038,118549,19.7,2016,7340,14980
+6204,Baffin,Region,Nunavut,62,8.8,100,Total  Household type including census family structure,78775,104896,33.2,69120,90837,31.4,2016,5525,9820
+6205,Keewatin,Region,Nunavut,62,6.9,100,Total  Household type including census family structure,58965,93294,58.2,53419,82688,54.8,2016,2630,9820
+6208,Kitikmeot,Region,Nunavut,62,6.9,100,Total  Household type including census family structure,67044,77397,15.4,60288,70400,16.8,2016,1665,9820
